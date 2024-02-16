@@ -1,0 +1,45 @@
+.watch{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+nav a, nav a:link{
+    padding-top: 30px;
+    padding: 40px;
+    text-decoration: none;
+}
+nav a{
+    background-color: black;
+    color: white;
+}
+header{
+   
+    background-color: gold;
+}
+.big{
+    background-color: black;
+}
+.rolex{
+    text-align: center;
+    color: white;
+
+    
+}
+.contenu{
+    padding-top: 30px;
+}
+main{
+    background-color: goldenrod ;
+}
+.icone {
+    text-align: center;
+    padding-top: 50px;
+    }
+    
+ .diéxna{text-align: center;
+    color: white;
+
+ }
+ footer{
+    background-color: rgb(1, 4, 49);
+ }
